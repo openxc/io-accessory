@@ -1,0 +1,42 @@
+Partlist
+
+Exported from IO_iJoey.sch at 11/19/12 4:03 PM
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device                        Package               Library                    Sheet
+
+C1       0.1u           CAP0603-CAP                   0603-CAP              BUG                        1
+C2       0.1u           CAP0603-CAP                   0603-CAP              BUG                        1
+C3       0.1u           CAP0603-CAP                   0603-CAP              BUG                        1
+C4       0.1u           CAP0603-CAP                   0603-CAP              BUG                        1
+C5       10u            CAP0805                       0805                  BUG                        1
+C6       1u             CAP0603-CAP                   0603-CAP              BUG                        1
+C7       10n            CAP0603-CAP                   0603-CAP              BUG                        1
+C8       24p            CAP0603-CAP                   0603-CAP              BUG                        1
+C9       24p            CAP0603-CAP                   0603-CAP              BUG                        1
+C10      0.1u           CAP0603-CAP                   0603-CAP              BUG                        1
+C11      0.1u           CAP0603-CAP                   0603-CAP              BUG                        1
+C12      10n            CAP0603-CAP                   0603-CAP              BUG                        1
+IC1      FT232RLSSOP    FT232RLSSOP                   SSOP28DB              SparkFun-DigitalIC         1
+IC2      ATMEGA328p     MEGA8-AI                      TQFP32-08             atmel                      1
+J1       USB-A-H        USB-A-H                       USB-A-H               SparkFun-Connectors        1
+J2       M15X2          M15X2                         2X15                  BUG                        1
+J3                      AVR_SPI_PRG_6PTH              2X3                   SparkFun-Connectors        1
+L1       10u            INDUCTOR0603                  0603                  BUG                        1
+L2       10u            INDUCTOR0603                  0603                  BUG                        1
+L3       BK0603HS330    INDUCTOR0603                  0603                  BUG                        1
+LED1     TX             LED0603                       LED-0603              BUG                        1
+LED2     RX             LED0603                       LED-0603              BUG                        1
+LED3     PWR            LED0603                       LED-0603              BUG                        1
+Q1       16MHz          CRYSTAL-GP                    HC49_GP               BUG                        1
+R1       1k             RESISTOR0603-RES              0603-RES              BUG                        1
+R2       1k             RESISTOR0603-RES              0603-RES              BUG                        1
+R3       DNP            RESISTOR0603-RES              0603-RES              BUG                        1
+R4       1k             RESISTOR0603-RES              0603-RES              BUG                        1
+R5       1k             RESISTOR0603-RES              0603-RES              BUG                        1
+R6       10k            RESISTOR0603-RES              0603-RES              BUG                        1
+R7       330            RESISTOR0603-RES              0603-RES              BUG                        1
+S1       RESET          SWITCH-MOMENTARY-2-SMD-1101NE TACTILE-SWITCH-1101NE SparkFun-Electromechanical 1
